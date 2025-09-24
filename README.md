@@ -36,20 +36,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshithreddy-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithreddy-dev&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=harshithreddy-dev&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/harshith-reddy-563745353" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
