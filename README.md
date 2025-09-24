@@ -52,4 +52,13 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="www.linkedin.com/in/harshith-reddy-563745353" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:harshithreddy1124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+⭐ **Fun fact:** I believe *Consistency beats Talent* when it comes to tech & fitness 🚀
