@@ -22,18 +22,6 @@
 
 ---
 
-### 📂 Featured Projects
-📌 Some of my key repos (will grow as I keep learning):  
-
-- 🧩 [Titanic EDA](#) → Exploratory Data Analysis with Pandas & Seaborn  
-- 📊 [House Price Prediction](#) → Regression model with scikit-learn  
-- 🎓 [Student Performance Classifier](#) → Classification ML Project  
-- 👕 [Fashion-MNIST CNN](#) → Image Classification using CNNs in PyTorch  
-- ⚡ [ML API with FastAPI](#) → Serving ML model via REST API  
-- 🌍 [Open Source Contributions](#) → My PRs to OSS projects  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshithreddy-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
