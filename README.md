@@ -30,13 +30,6 @@
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshithreddy-dev&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="www.linkedin.com/in/harshith-reddy-563745353" target="_blank">
